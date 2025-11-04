@@ -1,13 +1,13 @@
 # Job-Portal-Application
 Full-stack Job Application Platform built using React.js, Spring Boot, Spring Security, and PostgreSQL.
-# 💼 Job Application Project (React.js + Spring Boot + Spring Security)
+#  Job Application Project (React.js + Spring Boot + Spring Security)
 
 A full-stack **Job Portal Application** that enables users to browse and apply for jobs while allowing recruiters to post and manage openings.  
 Built with **React.js** for the frontend and **Spring Boot** with **Spring Security** for a secure backend, integrated with **PostgreSQL** for persistent data storage.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 - **Frontend:** React.js, HTML, CSS, JavaScript
 - **Backend:** Spring Boot, Spring Security, Spring Data JPA
 - **Database:** PostgreSQL
@@ -25,4 +25,3 @@ Built with **React.js** for the frontend and **Spring Boot** with **Spring Secur
 
 ---
 
-## 🗂️ Project Structure
